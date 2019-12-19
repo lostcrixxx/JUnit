@@ -20,9 +20,13 @@ Métodos da classe Assert
 Os métodos comuns da classe Assert são os seguintes:
 
 void assertEquals (booleano esperado, booleano real) : verifica se dois primitivos / objetos são iguais. Ele está sobrecarregado.
+
 void assertTrue (condição booleana) : verifica se uma condição é verdadeira.
+
 void assertFalse (condição booleana) : verifica se uma condição é falsa.
+
 assertNull void (Object obj) : verifica esse objeto é nulo.
+
 void assertNotNull (Object obj) : verifica se o objeto não é nulo.
 
 Carrega e seleciona o Spinner
